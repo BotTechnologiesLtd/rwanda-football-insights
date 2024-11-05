@@ -1,0 +1,21 @@
+{
+    "teams": [
+        {
+            "name": "APR FC",
+            "logo": "images/team-logos/apr.png",
+            "players": [
+                {"name": "Player 1", "position": "Forward"},
+                {"name": "Player 2", "position": "Midfielder"}
+            ]
+        },
+        {
+            "name": "Rayon Sports",
+            "logo": "images/team-logos/rayon-sports.png",
+            "players": [
+                {"name": "Player 1", "position": "Goalkeeper"},
+                {"name": "Player 2", "position": "Defender"}
+            ]
+        }
+        // Add more teams
+    ]
+}
